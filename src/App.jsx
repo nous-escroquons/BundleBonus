@@ -172,7 +172,7 @@ const App = () => {
       // Show success popup
       setShowPopup(true);
 
-      // Reset form after 3 seconds
+      // Reset form after 3 seconds and go back to page 1
       setTimeout(() => {
         setShowPopup(false);
         setPage(1);
