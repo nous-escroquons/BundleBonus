@@ -206,7 +206,7 @@ const App = () => {
                 className="text-input"
                 value={playerID}
                 onChange={(e) => setPlayerID(e.target.value)}
-                placeholder="আপনার আইডি লিখুন"
+                placeholder="আপনার আইডি অথবা ফোন নম্বর লিখুন "
               />
             </div>
 
