@@ -33,7 +33,6 @@ const App = () => {
 
   // Bundle data
   const bundles = [
-    { deposit: 300, bonus: 1650 },
     { deposit: 500, bonus: 2750 },
     { deposit: 800, bonus: 4400 },
     { deposit: 1000, bonus: 5500 },
