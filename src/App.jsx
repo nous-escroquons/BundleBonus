@@ -33,12 +33,10 @@ const App = () => {
 
   // Bundle data
   const bundles = [
+    { deposit: 300, bonus: 1650 },
     { deposit: 500, bonus: 2750 },
     { deposit: 800, bonus: 4400 },
     { deposit: 1000, bonus: 5500 },
-    { deposit: 3000, bonus: 16500 },
-    { deposit: 5000, bonus: 27500 },
-    { deposit: 10000, bonus: 55000 },
   ];
 
   // Wallet numbers by provider
