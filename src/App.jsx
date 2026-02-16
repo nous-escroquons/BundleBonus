@@ -252,7 +252,8 @@ const App = () => {
                     <span className="provider-name">bKash</span>
                   </div>
                 </label>
-                <label className="provider-option">
+
+                {/* <label className="provider-option">
                   <input
                     type="radio"
                     name="provider"
@@ -264,7 +265,7 @@ const App = () => {
                     <img src="./nagad.png" className="provider-logo" />
                     <span className="provider-name">Nagad</span>
                   </div>
-                </label>
+                </label> */}
               </div>
             </div>
 
