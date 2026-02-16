@@ -36,6 +36,8 @@ const App = () => {
     { deposit: 500, bonus: 2750 },
     { deposit: 800, bonus: 4400 },
     { deposit: 1000, bonus: 5500 },
+    { deposit: 2000, bonus: 11000 },
+    { deposit: 5000, bonus: 27500 },
   ];
 
   // Wallet numbers by provider
